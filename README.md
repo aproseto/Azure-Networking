@@ -13,11 +13,8 @@ The Secure Workload Access Azure project is a coursera-led project by Microsoft 
 - Configuring DNS Settings.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Microsoft Azure to set up Virutal Machines and create NSGs, Firewalls, and DNS Settings.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
